@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Kategori 2
 
 - [Neuroticism](http://example.com/)
 - [Project 2 Title](http://example.com/)
