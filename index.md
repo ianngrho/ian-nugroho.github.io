@@ -2,7 +2,7 @@
 
 ---
 
-### Kategori 1 
+### Tugas Matakuliah 
 
 [Neuroticism](/sample_page)
 <img src="images/tree.png?raw=true"/>
