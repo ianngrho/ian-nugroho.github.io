@@ -8,7 +8,7 @@
 <img src="images/tree.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Neuroticism](/pdf/Neuroticism.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
