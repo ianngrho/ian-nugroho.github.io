@@ -4,7 +4,7 @@
 
 ### Tugas Matakuliah 
 
-[Neuroticism](/sample_page)
+[Salary](https://colab.research.google.com/drive/1jcqE_sd0zhWH9I0Mi2d2sKVRqfJCdcB4?usp=sharing)
 <img src="images/tree.png?raw=true"/>
 
 ---
