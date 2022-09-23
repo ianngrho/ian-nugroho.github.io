@@ -12,10 +12,6 @@
 <img src="images/tree.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 
 ### Topic 1 & 2 - Assignment Esai Use Case Data Science
 [Use Case Data Science : Healthcare Apotek] (/pdf/Tugas Topic 1 & 2 - Assignment Esai Use Case Data Science & Membuat Halaman Github - Muhammad Septian Nugroho.pdf)
