@@ -1,17 +1,15 @@
 title: Muhammad Septian Nugroho # your name (or website title) here
 logo: "/images/Profil.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I have good motivation to grow, interested in new things and able to work individually or as a team. 
-  Interested in technology for a long time, such as VR/AR, AI, Machine Learning, and Game Creation. 
-  Currently undergoing independent study as a data analyst at PT Zona Edukasi Nusantara (Zenius). 
-  In my spare time, I usually read anything like books, comics, or looking for something interesting. 
+  I have good motivation to grow, interested in new things and able to work individually or as a team. Interested in technology for a long time, such as VR/AR, AI, Machine Learning, and Game Creation. 
+  Currently undergoing independent study as a data analyst at PT Zona Edukasi Nusantara (Zenius). In my spare time, I usually read anything like books, comics, or looking for something interesting. 
   In addition, I also learned how to create and develop a website for our village, a tourist village that provides tourist destinations. 
   <br><br>
   Kindly contact Ian at xzclotus@gmail.com
   <br><br>
-  <a>Find me on</a><a href="https://www.linkedin.com/in/muhammad-septian-nugroho-8a8218193/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/muhammad-septian-nugroho-8a8218193/">LinkedIn</a>
   <br><br>
-  <a>Find Me on</a><a href="https://www.instagram.com/yandeyyan/">Instagram</a>
+  <a href="https://www.instagram.com/yandeyyan/">Instagram</a>
   
   
 theme: jekyll-theme-minimal
