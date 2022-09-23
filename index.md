@@ -7,7 +7,6 @@
 
 ---
 
-
 ### Other
 
 - [Prediksi Gaji Berdasarkan Tahun Pengalaman Bekerja Menggunakan Regresi Linear Sederhana](/pdf/Defian_Metdat.pdf)
