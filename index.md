@@ -14,7 +14,7 @@
 ---
 
 ### Topic 1 & 2 - Assignment Esai Use Case Data Science
-[Use Case Data Science : Healthcare Apotek](/pdf/Tugas Topic 1 & 2 - Assignment Esai Use Case Data Science & Membuat Halaman Github - Muhammad Septian Nugroho.pdf)
+[Use Case Data Science : Healthcare Apotek](/pdf/Tugas_UseCase.pdf)
 <img src="images/UseCase.png?raw=true"/>
 
 ### Kategori 2
