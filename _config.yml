@@ -5,10 +5,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   In my spare time, I usually read anything like books, comics, or looking for something interesting. 
   In addition, I also learned how to create and develop a website for our village, a tourist village that provides tourist destinations.
   <br><br>
-  Kindly contact Ian at xzclotus@gmail.com
+  Kindly contact Ian at <a href="https://mail.google.com/mail/u/0/#inbox?compose=new">xzclotus@gmail.com</a>
   <br><br>
   <a href="https://www.linkedin.com/in/muhammad-septian-nugroho-8a8218193/">LinkedIn</a><br><br>
   <a href="https://www.instagram.com/yandeyyan/">Instagram</a>
+
   
   
 theme: jekyll-theme-minimal
