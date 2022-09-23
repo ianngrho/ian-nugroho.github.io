@@ -1,14 +1,6 @@
 ## Portfolio
 
 ---
-
-### Coursework
-
----
-[PENERAPAN DECISION TREE METHOD DALAM MENGANALISIS TRAITS KEPRIBADIAN NEUROTICISM PADA MAHASISWA](/pdf/Neuroticism.pdf)
-<img src="images/tree.png?raw=true"/>
-
----
 ### Assignment
 [Use Case Data Science : Healthcare Apotek](/pdf/Tugas_UseCase.pdf)
 <img src="images/UseCase.jpg?raw=true"/>
@@ -16,11 +8,11 @@
 ---
 
 
-### Kategori 2
+### Other
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
+- [Prediksi Gaji Berdasarkan Tahun Pengalaman Bekerja Menggunakan Regresi Linear Sederhana](/pdf/Defian_Metdat.pdf)
+- [IMPLEMENTASI METODE K-MEANS UNTUK MENGETAHUI DAILY CASE DAN DAILY DEATH TERTINGGI  PADA KASUS COVID-19 DI INDONESIA](/pdf/Clustering_COVID.pdf)
+- [PENERAPAN DECISION TREE METHOD DALAM MENGANALISIS TRAITS KEPRIBADIAN NEUROTICISM PADA MAHASISWA](/pdf/Neuroticism.pdf)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
