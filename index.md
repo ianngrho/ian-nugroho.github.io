@@ -4,12 +4,8 @@
 
 ### Coursework
 
-[Salary](https://colab.research.google.com/drive/1jcqE_sd0zhWH9I0Mi2d2sKVRqfJCdcB4?usp=sharing)
-<img src="images/SalaryPrediction.jpg?raw=true"/>
-<img src="images/SalaryErrorValue.jpg?raw=true"/>
-
 ---
-[Neuroticism](/pdf/Neuroticism.pdf)
+[PENERAPAN DECISION TREE METHOD DALAM MENGANALISIS TRAITS KEPRIBADIAN NEUROTICISM PADA MAHASISWA](/pdf/Neuroticism.pdf)
 <img src="images/tree.png?raw=true"/>
 
 ---
